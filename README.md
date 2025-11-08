@@ -1,5 +1,5 @@
 # mathy_coding
 
-I am teaching myself math related coding here, with Python.
+I am teaching myself math related coding here (and math itself), with Python.
 
 This will slowly grow over time.
